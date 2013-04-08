@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[vFISHv's Octopress Blog]]></title>
-  <link href="http://vfishv.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Octopress | vFISHv's Octopress Blog]]></title>
+  <link href="http://vfishv.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://vfishv.github.com/"/>
   <updated>2013-04-08T21:07:41+08:00</updated>
   <id>http://vfishv.github.com/</id>
@@ -19,7 +19,7 @@
     <updated>2013-04-08T20:39:00+08:00</updated>
     <id>http://vfishv.github.com/blog/2013/04/08/first-github-page-powered-by-octopress</id>
     <content type="html"><![CDATA[<p>how to add a new page?
-rake new_post[&#8220;title&#8221;]
+rake new_post["title"]
 rake generate
 rake preview
 rake deploy</p>
