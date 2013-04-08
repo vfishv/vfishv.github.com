@@ -4,7 +4,7 @@
   <title><![CDATA[vFISHv's Octopress Blog]]></title>
   <link href="http://vfishv.github.com/atom.xml" rel="self"/>
   <link href="http://vfishv.github.com/"/>
-  <updated>2013-04-08T21:07:41+08:00</updated>
+  <updated>2013-04-08T21:11:50+08:00</updated>
   <id>http://vfishv.github.com/</id>
   <author>
     <name><![CDATA[vFISHv]]></name>
@@ -18,11 +18,34 @@
     <link href="http://vfishv.github.com/blog/2013/04/08/first-github-page-powered-by-octopress/"/>
     <updated>2013-04-08T20:39:00+08:00</updated>
     <id>http://vfishv.github.com/blog/2013/04/08/first-github-page-powered-by-octopress</id>
-    <content type="html"><![CDATA[<p>how to add a new page?
+    <content type="html"><![CDATA[<p>
+<strong>
+how to add a new page?
+</strong>
+</p>
+
+
+
+
+<p>
 rake new_post[&#8220;title&#8221;]
+</p>
+
+
+<p>
 rake generate
+</p>
+
+
+<p>
 rake preview
-rake deploy</p>
+</p>
+
+
+<p>
+rake deploy
+</p>
+
 ]]></content>
   </entry>
   
