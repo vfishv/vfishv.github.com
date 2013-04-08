@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://vfishv.github.com
-title: vFISHv's Octopress Blog
+title: vFISHv
 subtitle: Android Developer
 author: vFISHv
 simple_search: http://google.com/search
@@ -65,7 +65,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user:
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
@@ -93,3 +93,9 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# JiaThis
+jiathis: true
+
+# Duoshuo Comments
+duoshuo_show_comment_count: true
