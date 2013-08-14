@@ -73,6 +73,7 @@ rake deploy
 git add .
 git commit -m "vfishv Octopress"
 git push origin source 
+
 git add .
 git commit -m "vfishv Octopress" 
 rake deploy
