@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://vfishv.github.com/sitemap.xml 
+Sitemap: http://vfishv.github.io/sitemap.xml 

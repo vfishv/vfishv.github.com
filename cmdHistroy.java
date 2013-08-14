@@ -109,3 +109,4 @@ git config http.postBuffer 524288000
 sudo port -v selfupdate
 sudo port install meld
 
+rake gen_deploy

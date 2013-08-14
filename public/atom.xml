@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[vFISHv]]></title>
-  <link href="http://vfishv.github.com/atom.xml" rel="self"/>
-  <link href="http://vfishv.github.com/"/>
-  <updated>2013-08-15T00:43:54+08:00</updated>
-  <id>http://vfishv.github.com/</id>
+  <link href="http://vfishv.github.io/atom.xml" rel="self"/>
+  <link href="http://vfishv.github.io/"/>
+  <updated>2013-08-15T01:02:01+08:00</updated>
+  <id>http://vfishv.github.io/</id>
   <author>
     <name><![CDATA[vFISHv]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Updating Octopress]]></title>
-    <link href="http://vfishv.github.com/blog/2013/08/14/updating-octopress/"/>
+    <link href="http://vfishv.github.io/blog/2013/08/14/updating-octopress/"/>
     <updated>2013-08-14T23:54:00+08:00</updated>
-    <id>http://vfishv.github.com/blog/2013/08/14/updating-octopress</id>
+    <id>http://vfishv.github.io/blog/2013/08/14/updating-octopress</id>
     <content type="html"><![CDATA[<p><a href="http://octopress.org/docs/updating/">http://octopress.org/docs/updating/</a></p>
 
 <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
@@ -37,9 +37,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Github Page powered by octopress]]></title>
-    <link href="http://vfishv.github.com/blog/2013/04/08/first-github-page-powered-by-octopress/"/>
+    <link href="http://vfishv.github.io/blog/2013/04/08/first-github-page-powered-by-octopress/"/>
     <updated>2013-04-08T20:39:00+08:00</updated>
-    <id>http://vfishv.github.com/blog/2013/04/08/first-github-page-powered-by-octopress</id>
+    <id>http://vfishv.github.io/blog/2013/04/08/first-github-page-powered-by-octopress</id>
     <content type="html"><![CDATA[<p>
 <strong>
 how to add a new page?
